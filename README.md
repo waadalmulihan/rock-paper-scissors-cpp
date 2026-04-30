@@ -45,6 +45,3 @@ The player competes against the computer over multiple rounds.
 
 ## 🎥 Demo
 <img width="1280" height="614" alt="ezgif-3c14ae02dadf42e7" src="https://github.com/user-attachments/assets/b94f3cc2-a338-441f-92a4-44a065cf75b0" />
-
-
-```
