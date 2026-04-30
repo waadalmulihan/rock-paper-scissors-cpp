@@ -48,9 +48,3 @@ The player competes against the computer over multiple rounds.
 
 
 ```
-
----
-
-## 👩‍💻 Author
-
-Waad Almulihan
