@@ -1,9 +1,5 @@
 # 🎮 Rock Paper Scissors Game - C++
 
-
-
-## 📌 Project Description
-
 This is a console-based Rock Paper Scissors game developed in C++.
 The player competes against the computer over multiple rounds.
 
