@@ -5,7 +5,7 @@
 This is a console-based Rock Paper Scissors game developed in C++.
 The player competes against the computer over multiple rounds.
 
----
+
 
 ## ✨ Features
 
@@ -17,7 +17,8 @@ The player competes against the computer over multiple rounds.
 * Replay option
 * Screen reset between games
 
----
+
+
 
 ## 🎮 How to Play
 
@@ -32,7 +33,8 @@ The player competes against the computer over multiple rounds.
 5. View round results
 6. See final winner
 
----
+
+
 
 ## 📊 Game Logic
 
@@ -41,7 +43,8 @@ The player competes against the computer over multiple rounds.
 * Paper beats Stone
 * Same choice = Draw
 
----
+
+
 
 ## 🎥 Demo
 <img width="1280" height="614" alt="ezgif-3c14ae02dadf42e7" src="https://github.com/user-attachments/assets/b94f3cc2-a338-441f-92a4-44a065cf75b0" />
